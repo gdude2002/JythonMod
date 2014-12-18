@@ -1,0 +1,16 @@
+[
+{
+  "modid": "JythonMod",
+  "name": "JythonMod",
+  "description": "A mod that allows you to work with Forge using Python",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gareth Coles (gdude2002)"],
+  "credits": "The Jython, Forge and FML teams, for making this possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
