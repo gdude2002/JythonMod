@@ -1,5 +1,7 @@
 build/
 eclipse/
-gradle/
 *.txt
 .gradle/
+
+.idea/
+*.iml

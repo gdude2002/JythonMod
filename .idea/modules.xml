@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Jython.iml" filepath="$PROJECT_DIR$/Jython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JythonMod.iml" filepath="$PROJECT_DIR$/JythonMod.iml" />
     </modules>
   </component>
 </project>

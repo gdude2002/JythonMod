@@ -40,7 +40,7 @@ dependencies {
     // http://www.gradle.org/docs/current/userguide/artifact_dependencies_tutorial.html
     // http://www.gradle.org/docs/current/userguide/dependency_management.html
 
-    compile "org.python:jython:2.7-b3"
+    compile "org.python:jython:2.5.3"
 
 }
 

@@ -30,14 +30,12 @@
   <component name="EntryPointsManager">
     <entry_points version="2.0" />
   </component>
-  <component name="Git.Settings">
-    <option name="SYNC_SETTING" value="DONT" />
-  </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="1413499882000" />
-        <entry key="$USER_HOME$/TeamRocketHotel" value="2835369070322" />
+        <entry key="$PROJECT_DIR$" value="1418936653892" />
+        <entry key="$PROJECT_DIR$/../Radio" value="1418565958566" />
+        <entry key="$PROJECT_DIR$/../WordWarning" value="2835215167783" />
       </map>
     </option>
   </component>
@@ -54,7 +52,7 @@
   <component name="ProjectModuleManager">
     <modules />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="PropertiesComponent">
@@ -64,11 +62,10 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="vcs.Git" />
+    <property name="options.lastSelected" value="appearance" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="C:/cmder/vendor/msysgit/bin/git.exe" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -184,7 +181,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.38550058" />
               </list>
             </option>
           </splitter-proportions>

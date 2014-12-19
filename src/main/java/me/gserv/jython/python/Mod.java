@@ -8,12 +8,11 @@ public interface Mod {
     public void onConstructionEvent(FMLConstructionEvent event);
     public void onFingerprintViolationEvent(FMLFingerprintViolationEvent event);
     public void onInitializationEvent(FMLInitializationEvent event);
-    public void onInterModCommsEvent(FMLInterModComms event);
+    public void onInterModCommsEvent(FMLInterModComms.IMCEvent event);
     public void onLoadCompleteEvent(FMLLoadCompleteEvent event);
-    public void onLoadEvent(FMLLoadEvent event);
     public void onMissingMappingsEvent(FMLMissingMappingsEvent event);
     public void onModDisabledEvent(FMLModDisabledEvent event);
-    public void onModIdMappingEvenT(FMLModIdMappingEvent event);
+    public void onModIdMappingEvent(FMLModIdMappingEvent event);
     public void onPostInitializationEvent(FMLPostInitializationEvent event);
     public void onPreInitializationEvent(FMLPreInitializationEvent event);
     public void onServerAboutToStartEvent(FMLServerAboutToStartEvent event);
