@@ -30,7 +30,7 @@ public class ModFactory {
         PythonInterpreter interpreter = new PythonInterpreter();
         String cmd = String.format("from pymods.%s import PyMod", module);
 
-        interpreter.exec("import sys\nsys.path.append(\".\")\nprint sys.path");
+        interpreter.exec("import sys\nsys.path.append(\".\")");
         interpreter.exec(cmd);
         PyObject modClass = interpreter.get("PyMod");
         PyObject mod = modClass.__call__(new PyObject(PyType.fromClass(this.getClass())));
